@@ -1,1 +1,1 @@
-# basketball_player_detection
+# 應用影像辨識Detectron2預測籃球比賽命中率與球員疲勞狀況
